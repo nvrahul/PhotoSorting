@@ -22,7 +22,7 @@ namespace PhotoSorting
 
     public class PhotoSorting
     {
-        string m_InputPath = @"E:\InputPhotos\Input 2\";
+        string m_InputPath = @"E:\InputPhotos\Input 2\ ";
         string m_OutputPath = @"E:\Photos\Organised\";
         long m_lTotalFileCount = 0;
         long m_lFileCounter = 0;
